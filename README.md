@@ -4,5 +4,5 @@ Simple project on predicting gold prices, using a dataset with ~10 years of gold
 
 
 
-[Sci-learn Docs](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) <br>
+[Sklearn Docs](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html) <br>
 [About Random Forest Regressor](https://www.geeksforgeeks.org/random-forest-regression-in-python/)
